@@ -1,0 +1,26 @@
+{
+  "name": "bulk-mailer",
+  "version": "1.0.0",
+  "description": "Bulk Mailer",
+  "main": "web.coffee",
+  "dependencies": {
+    "nodemailer": "^0.6.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "coffee web.coffee"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/praphull27/bulk-mailer.git"
+  },
+  "keywords": [
+    "mailer"
+  ],
+  "author": "Praphull Kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/praphull27/bulk-mailer/issues"
+  },
+  "homepage": "https://github.com/praphull27/bulk-mailer"
+}
